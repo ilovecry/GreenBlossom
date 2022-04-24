@@ -11,3 +11,5 @@ Few screenshots how it looks:
 ![image](https://user-images.githubusercontent.com/85902537/164997291-e3266957-87b2-4e0a-913c-36c97c2df16c.png)
 ![image](https://user-images.githubusercontent.com/85902537/164997311-c1cfff36-a53e-487d-82c7-a419d8fa0a65.png)
 ![image](https://user-images.githubusercontent.com/85902537/164997341-b0f5216f-14bd-4bd0-8a14-0586cdfc1462.png)
+
+Fully made by Cry/ilovecry
