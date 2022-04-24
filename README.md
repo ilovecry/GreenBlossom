@@ -1,5 +1,7 @@
 # GreenBlossom
-<b>Green themed texture pack.</b>
+<b>Green themed texture pack. Created it for my friend Scrvbnoob.</b>
+<b>Took around 7 hours to create.</b>
+###################################################################
 
 Few screenshots how it looks:
 
